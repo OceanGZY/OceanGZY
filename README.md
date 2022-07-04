@@ -1,5 +1,6 @@
 ### Hi there 👋
 > 读书城南
+
 > 在未来面前，我们都是孩子～
 
 
@@ -10,7 +11,7 @@
 - :orange_book: 一个热衷于探索学习新方向、新事物的智能产品经理，闲暇时间喜欢coding💻、画图🎨、音乐🎵、学习ing
 - Blog: [http://blog.oceaneyes.top](http://blog.oceaneyes.top)
 - PM导航: [https://pmhub.oceangzy.top](https://pmhub.oceangzy.top)
-- WeChat: [OCEANGZY]([https://oceaneyes.top/img/wechatqrcode.jpg](https://oceaneyes.top/img/wechatqrcode.jpg))
+- WeChat: [OCEANGZY](https://oceaneyes.top/img/wechatqrcode.jpg)
 - CNBLOG: [https://www.cnblogs.com/oceaneyes-gzy/](https://www.cnblogs.com/oceaneyes-gzy/)
 - AI PRJ自己部署的一些算法demo: [http://ai.oceangzy.top/](http://ai.oceangzy.top/)
 - Email: 1450136519@qq.com
