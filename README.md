@@ -8,7 +8,7 @@
 
 ### 👋 Social Media
 
-- 🛠️ Blog: [http://blog.oceaneyes.top](http://blog.oceaneyes.top)
+- 🛠️ Blog: [http://oceaneyes.top](http://oceaneyes.top)
 - ⚡ PM导航: [https://pmhub.oceangzy.top](https://pmhub.oceangzy.top)
 - 💬 WeChat: [OCEANGZY](https://oceaneyes.top/img/wechatqrcode.jpg)
 - ☘️ CNBLOG: [https://www.cnblogs.com/oceaneyes-gzy/](https://www.cnblogs.com/oceaneyes-gzy/)
