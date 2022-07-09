@@ -11,6 +11,7 @@
 - 🛠️ Blog: [http://oceaneyes.top](http://oceaneyes.top)
 - ⚡ PM导航: [https://pmhub.oceangzy.top](https://pmhub.oceangzy.top)
 - 💬 WeChat: [OCEANGZY](https://oceaneyes.top/img/wechatqrcode.jpg)
+- 💬 公众号: [UncleJoker-GZY](https://oceaneyes.top/img/wechatgzh.jpeg)
 - ☘️ CNBLOG: [https://www.cnblogs.com/oceaneyes-gzy/](https://www.cnblogs.com/oceaneyes-gzy/)
 - 🌱 AI PRJ自己部署的一些算法demo: [http://ai.oceangzy.top/](http://ai.oceangzy.top/)
 - 📫 Email: 1450136519@qq.com
