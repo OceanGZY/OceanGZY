@@ -7,7 +7,7 @@
 > :orange_book: 一个热衷于探索学习新方向、新事物的智能产品经理，闲暇时间喜欢coding💻、画图🎨、音乐🎵、学习ing
 
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa/api?username=OcaenEyes&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=OceanGZY&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 👋 Social Media
 
