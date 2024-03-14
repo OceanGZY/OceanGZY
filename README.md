@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/OceanGZY/OceanGZY/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/OceanGZY/OceanGZY/output/github-contribution-grid-snake.svg)
 
 
 ### 👋 读书城南
